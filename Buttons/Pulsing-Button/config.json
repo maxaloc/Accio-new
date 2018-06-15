@@ -1,8 +1,1 @@
-{
-  "devTime": "days: 0, hours: 0.5",
-  "pricing": "NC",
-  "difficulty": "1",
-  "description": "A nice pulsing button in pure css",
-  "tags": [
-  ]
-  }
+{"devTime":{"days":"","hours":""},"pricing":"100","difficulty":"1","description":"A nice pulsing button in pure css","tags":["pulse","button","cool","fun"]}
